@@ -1,0 +1,62 @@
+[
+    {
+        "author": "aaa",
+        "title":"article 1",
+        "text":"Article 1 text"
+    },
+    {
+        "author": "aaa",
+        "title":"article 2",
+        "text":"Article 2 text"
+    },
+    {
+        "author": "bbb",
+        "title":"article 3",
+        "text":"Article 3 text"
+    },
+    {
+        "author": "ccc",
+        "title":"article 4",
+        "text":"Article 4 text"
+    },
+    {
+        "author": "ccc",
+        "title":"article 5",
+        "text":"Article 5 text"
+    },
+    {
+        "author": "ddd",
+        "title":"article 6",
+        "text":"Article 6 text"
+    },
+    {
+        "author": "ddd",
+        "title":"article 7",
+        "text":"Article 7 text"
+    },
+    {
+        "author": "ddd",
+        "title":"article 8",
+        "text":"Article 8 text"
+    },
+    {
+        "author": "eee",
+        "title":"article 9",
+        "text":"Article 9 text"
+    },
+    {
+        "author": "fff",
+        "title":"article 10",
+        "text":"Article 10 text"
+    },
+    {
+        "author": "fff",
+        "title":"article 11",
+        "text":"Article 11 text"
+    },
+    {
+        "author": "fff",
+        "title":"article 12",
+        "text":"Article 12 text"
+    }
+]
